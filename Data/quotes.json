@@ -1,0 +1,24 @@
+[
+    {
+        "image": "naruto",
+        "image2": "naruto2",
+        "title" : "Hard work is worthless for those that don’t believe in themselves.",
+        "information": "Naruto Uzumaki",
+        "details": "Naruto Uzumaki (うずまきナルト, Uzumaki Naruto) is a shinobi of Konohagakure's Uzumaki clan. He became the jinchūriki of the Nine-Tails on the day of his birth — a fate that caused him to be shunned by most of Konoha throughout his childhood. After joining Team Kakashi, Naruto worked hard to gain the village's acknowledgement all the while chasing his dream to become Hokage. In the following years, through many hardships and ordeals, he became a capable ninja, regarded as a hero both by the villagers, and soon after, the rest of the world, becoming known as the Hero of the Hidden Leaf"
+    },
+    {
+        "image": "naruto2",
+        "image2": "naruto",
+        "title" : "Rejection is a part of any man’s life. If you can’t accept and move past rejection, or at least use it as writing material – you’re not a real man.",
+        "information": "Jiraiya",
+        "details": "Jiraiya (自来也) was one of Konohagakure's Sannin. Famed as a hermit and pervert of stupendous ninja skill, Jiraiya travelled the world in search of knowledge that would help his friends, the various novels he wrote, and, posthumously, the world in its entirety – knowledge that would be passed on to his godson and final student, Naruto Uzumaki."
+    },
+    {
+        "image": "sasuke2",
+        "image2": "sasuke2",
+        "title" : "Having too many bonds causes one to lose focus, weakening their strongest wish, their greatest desire.",
+        "information": "Sasuke Uchiha",
+        "details": "Sasuke Uchiha (うちはサスケ, Uchiha Sasuke) is one of the last surviving members of Konohagakure's Uchiha clan. After his older brother, Itachi, slaughtered their clan, Sasuke made it his mission in life to avenge them by killing Itachi. He is added to Team 7 upon becoming a ninja and, through competition with his rival and best friend, Naruto Uzumaki, Sasuke starts developing his skills."
+    }
+    
+]
